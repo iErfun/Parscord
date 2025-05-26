@@ -1,7 +1,58 @@
-# Parscord
-A lightweight iranian discord client with no lockout for iranians
+<h1 align="center">Parscord</h1>
+<p align="center">
+</p>
+<br>
 
-This project is not completed yet so its a test beta and its normal to encounter bugs
+یک کلاینت غیررمسی برای دیسکورد ، سبک وزن ، آپتیمایز و بدون محدودیت برای کاربران ایرانی
+
+این پروژه هنوز کامل نشده و در مرحله‌ی تست هستش، بنابراین مواجه شدن با باگ‌ها کاملاً طبیعی است.
+
+
+<br>
+
+## Parscord Config.txt
+- config.txt
+```ini
+MODE=1  // 1 = Psiphon Mode , 2 = Warp Mode
+DNS=1.1.1.1  // DNS address
+REGION=US  // فقط زمانی که از مود 1 استفاده میکنید
+```
+- Region Options
+```
+Austria (AT)
+Australia (AU)
+Belgium (BE)
+Bulgaria (BG)
+Canada (CA)
+Switzerland (CH)
+Czech Republic (CZ)
+Germany (DE)
+Denmark (DK)
+Estonia (EE)
+Spain (ES)
+Finland (FI)
+France (FR)
+United Kingdom (GB)
+Croatia (HR)
+Hungary (HU)
+Ireland (IE)
+India (IN)
+Italy (IT)
+Japan (JP)
+Latvia (LV)
+Netherlands (NL)
+Norway (NO)
+Poland (PL)
+Portugal (PT)
+Romania (RO)
+Serbia (RS)
+Sweden (SE)
+Singapore (SG)
+Slovakia (SK)
+United States (US)
+```
+
+## Credit
 
 > https://discord.gg/FbrtjJdsZ2
 
