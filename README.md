@@ -1,4 +1,4 @@
-<h1 align="center">Parscord</h1>
+<h1 align="center">PARSCORD CLIENT</h1>
 <p align="center">
   <img src="assets/parscord.png">
 </p>
