@@ -16,7 +16,7 @@
 ```ini
 MODE=1  // 1 = Psiphon Mode , 2 = Warp Mode
 DNS=1.1.1.1  // DNS address
-REGION=US  // فقط زمانی که از مود 1 استفاده میکنید
+REGION=US  // منطقه پروکسی ، فقط برای مود 1
 ```
 - Region Options
 ```
