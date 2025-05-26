@@ -1,6 +1,6 @@
 <h1 align="center">PARSCORD CLIENT</h1>
 <p align="center">
-  <img src="assets/parscord.png" width="700"/>
+  <img src="assets/parscord.png" width="750"/>
 </p>
 <br>
 
