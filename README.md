@@ -1,5 +1,6 @@
 <h1 align="center">Parscord Client</h1>
 <p align="center">
+  <img src="assets/parscord.jpg">
 </p>
 <br>
 
