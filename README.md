@@ -20,7 +20,7 @@ REGION=US     # منطقه پروکسی ، فقط برای مود 1
 ```
 - [Region Options](https://github.com/iErfun/Parscord/blob/main/assets/regions.md)
 
-## Credit
+## Credits
 
 > https://discord.gg/FbrtjJdsZ2
 
