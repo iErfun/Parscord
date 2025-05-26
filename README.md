@@ -1,4 +1,4 @@
-<h1 align="center">Parscord Iranian Discord Client</h1>
+<h1 align="center">Parscord</h1>
 <p align="center">
   <img src="assets/parscord.png">
 </p>
