@@ -24,4 +24,4 @@ REGION=US     # منطقه پروکسی ، فقط برای مود 1
 
 > https://discord.gg/FbrtjJdsZ2
 
-> Parscord By iErfun & Gara
+> Parscord By ierfun. & freaking59
