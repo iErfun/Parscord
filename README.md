@@ -14,9 +14,9 @@
 ## Parscord Config.txt
 - config.txt
 ```ini
-MODE=1  // 1 = Psiphon Mode , 2 = Warp Mode
-DNS=1.1.1.1  // DNS address
-REGION=US  // منطقه پروکسی ، فقط برای مود 1
+MODE=1        // 1 = Psiphon Mode , 2 = Warp Mode
+DNS=1.1.1.1   // DNS address
+REGION=US     // منطقه پروکسی ، فقط برای مود 1
 ```
 - [Region Options](https://github.com/iErfun/Parscord/blob/main/assets/regions.md)
 
