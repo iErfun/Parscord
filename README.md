@@ -1,4 +1,4 @@
-<h1 align="center">PARSCORD</h1>
+<h1 align="center">P A R S C O R D</h1>
 <p align="center">
   <img src="assets/parscord.png" width="750"/>
 </p>
