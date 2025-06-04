@@ -1,6 +1,12 @@
-# [<img src="./assets/icon.png" width="40" align="left" alt="Parscord">](https://github.com/Parscord/Parscord) Parscord - Iranian Discord Client
-[![Parscord](https://img.shields.io/badge/Parscord-grey?style=flat)](https://github.com/Parscord/Parscord)
-![Discord](https://img.shields.io/discord/1266760643692859402?logo=discord&logoColor=white&label=Discord&color=768AD4&link=https%3A%2F%2Fdiscord.gg%2FFbrtjJdsZ2)
+<div align="center">
+
+<a href="https://github.com/iErfun/Parscord"><img src="./assets/parscord.png" alt="Parscord" style="width: 70%"/></a>
+
+</div>
+
+<h1 align="center">
+  <img src="./assets/icon.png" width="40" align="center" alt="Parscord"> Parscord・Iranian Discord Client
+</h1>
 
 Lightweight and optimized for better performance.
 
@@ -17,7 +23,6 @@ BetterDiscord option (beta)
 Krisp Noise Suppression removed.
 
 Config.txt added for warp-plus proxy configuration.
-
 
 * **Download:** https://github.com/iErfun/Parscord/releases
 
