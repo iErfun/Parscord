@@ -1,4 +1,4 @@
-# [<img src="./assers/icon.png" width="40" align="left" alt="Parscord">](https://github.com/Parscord/Parscord) Parscord
+# [<img src="./assets/icon.png" width="40" align="left" alt="Parscord">](https://github.com/Parscord/Parscord) Parscord
 
 Lightweight and optimized for better performance.
 
