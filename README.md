@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/iErfun/Parscord"><img src="./assets/parscord.png" alt="Parscord" style="width: 70%"/></a>
+<a href="https://github.com/iErfun/Parscord"><img src="./assets/logo.png" alt="Parscord" style="width: 70%"/></a>
 
 </div>
 
