@@ -1,8 +1,6 @@
 # [<img src="./assets/icon.png" width="40" align="left" alt="Parscord">](https://github.com/Parscord/Parscord) Parscord - Iranian Discord Client
-[![Equibop](https://img.shields.io/badge/Parscord-grey?style=flat)](https://github.com/Parscord/Parscord)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/iErfun/Parscord/total)
-[![Discord](https://img.shields.io/discord/1266760643692859402.svg?color=768AD4&label=Discord&logo=discord&logoColor=white)](https://discord.gg/FbrtjJdsZ2)
-
+[![Parscord](https://img.shields.io/badge/Parscord-grey?style=flat)](https://github.com/Parscord/Parscord)
+![Discord](https://img.shields.io/discord/1266760643692859402?logo=discord&logoColor=white&label=Discord&color=768AD4&link=https%3A%2F%2Fdiscord.gg%2FFbrtjJdsZ2)
 
 Lightweight and optimized for better performance.
 
