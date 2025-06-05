@@ -37,7 +37,7 @@ ENDPOINT=      // Warp endpoint
 DEBUG=false    // Debug mode (options: true, false)
 ```
 
-## Credits
+## Information
 > Parscord By ierfun. & freaking59
 
 > https://discord.gg/FbrtjJdsZ2
