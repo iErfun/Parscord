@@ -27,7 +27,7 @@ Config.txt added for warp-plus proxy configuration.
 * **Download:** https://github.com/iErfun/Parscord/releases
 
 <details>
-<summary>config.txt</summary>
+<summary>config.txt options</summary>
 
 ```ini
 MODE=1         # MODE=1 (Psiphon mode), MODE=2 (Warp mode), MODE=0 (disable proxy) 
