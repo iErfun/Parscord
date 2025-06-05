@@ -2,7 +2,7 @@
 
 <a href="https://github.com/iErfun/Parscord"><img src="./assets/plogo.png" alt="Parscord" style="width: 70%"/></a>
 
-[![Parscord](https://img.shields.io/badge/Parscord-grey?style=flat-square)](https://github.com/Parscord/Parscord)
+[![Parscord](https://img.shields.io/badge/Parscord-grey?style=flat-square)](https://github.com/iErfun/Parscord)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/iErfun/Parscord/total?style=flat-square&color=gray)
 [![Discord](https://img.shields.io/discord/1266760643692859402?style=flat-square&logo=discord&logoColor=white&label=Discord&color=768AD4&)](https://discord.gg/FFbrtjJdsZ2)
 
