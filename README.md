@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/iErfun/Parscord"><img src="./assets/logo.png" alt="Parscord" style="width: 70%"/></a>
+<a href="https://github.com/iErfun/Parscord"><img src="./assets/plogo.png" alt="Parscord" style="width: 70%"/></a>
 
 [![Parscord](https://img.shields.io/badge/Parscord-grey?style=flat-square)](https://github.com/Parscord/Parscord)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/iErfun/Parscord/total?style=flat-square&color=gray)
