@@ -2,11 +2,11 @@
 
 <a href="https://github.com/iErfun/Parscord"><img src="./assets/logo.png" alt="Parscord" style="width: 70%"/></a>
 
-</div>
+[![Parscord](https://img.shields.io/badge/Parscord-grey?style=flat-square)](https://github.com/Parscord/Parscord)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/iErfun/Parscord/total?style=flat-square&color=gray)
+[![Discord](https://img.shields.io/discord/1266760643692859402?style=flat-square&logo=discord&logoColor=white&label=Discord&color=768AD4&)](https://discord.gg/FFbrtjJdsZ2)
 
-<h1 align="center">
-  <img src="./assets/icon.png" width="40" align="center" alt="Parscord"> Parscord・Iranian Discord Client
-</h1>
+</div>
 
 Lightweight and optimized for better performance.
 
