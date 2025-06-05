@@ -30,13 +30,13 @@ Config.txt added for warp-plus proxy configuration.
 <summary>config.txt</summary>
 
 ```ini
-MODE=1         // MODE=1 (Psiphon mode), MODE=2 (Warp mode), MODE=0 (disable proxy) 
-DNS=1.1.1.1    // DNS address
-REGION=US      // Psiphon country code
-KEY=           // Warp+ key
-ENDPOINT=      // Warp endpoint
+MODE=1         # MODE=1 (Psiphon mode), MODE=2 (Warp mode), MODE=0 (disable proxy) 
+DNS=1.1.1.1    # DNS address
+REGION=US      # Psiphon country code
+KEY=           # Warp+ key
+ENDPOINT=      # Warp endpoint
 
-DEBUG=false    // Debug mode (options: true, false)
+DEBUG=false    # Debug mode (options: true, false)
 ```
 
 </details>
