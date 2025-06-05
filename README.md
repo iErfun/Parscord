@@ -26,7 +26,9 @@ Config.txt added for warp-plus proxy configuration.
 
 * **Download:** https://github.com/iErfun/Parscord/releases
 
-## Config.txt
+<details>
+<summary>config.txt</summary>
+
 ```ini
 MODE=1         // MODE=1 (Psiphon mode), MODE=2 (Warp mode), MODE=0 (disable proxy) 
 DNS=1.1.1.1    // DNS address
@@ -37,7 +39,8 @@ ENDPOINT=      // Warp endpoint
 DEBUG=false    // Debug mode (options: true, false)
 ```
 
-## Information
-> Parscord By ierfun. & freaking59
+</details>
 
-> https://discord.gg/FbrtjJdsZ2
+## Information
+- Parscord By ierfun. & freaking59
+- https://discord.gg/FbrtjJdsZ2
