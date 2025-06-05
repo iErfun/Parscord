@@ -10,19 +10,19 @@
 
 **Lightweight and optimized for better performance.**
 
-**Simplified settings for a smoother experience.**
+Simplified settings for a smoother experience.
 
-**Uses [warp-plus](https://github.com/bepass-org/warp-plus) proxy to bypass filtering**
+Uses [warp-plus](https://github.com/bepass-org/warp-plus) proxy to bypass filtering
 
-**Vencord option**
+Vencord option
 
-**Equicord option**
+Equicord option
 
-**BetterDiscord option (beta)**
+BetterDiscord option (beta)
 
-**Krisp Noise Suppression removed.**
+Krisp Noise Suppression removed.
 
-**Config.txt added for warp-plus proxy configuration.**
+Config.txt added for warp-plus proxy configuration.
 
 * **Download:** https://github.com/iErfun/Parscord/releases
 
