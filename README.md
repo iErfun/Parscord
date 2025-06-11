@@ -1,5 +1,4 @@
 <div align="center">
-
 <a href="https://github.com/iErfun/Parscord"><img src="./assets/plogo.png" alt="Parscord" style="width: 70%"/></a>
 
 [![Parscord](https://img.shields.io/badge/Parscord-grey?style=flat-square)](https://github.com/iErfun/Parscord)
@@ -42,6 +41,6 @@ DEBUG=false     # Debug mode (options: true, false)
 
 </details>
 
-## Information
+## 📃 Credits
 - Parscord By ierfun. & freaking59
 - https://discord.gg/FbrtjJdsZ2
